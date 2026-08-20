@@ -1,2 +1,6 @@
 print("A")
 print("B")
+print("C")
+print("priyanka")
+print("kumar")
+print("meera")
